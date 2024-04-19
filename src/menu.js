@@ -11,7 +11,7 @@ async function main(bot, uid, req, data) {
                 [{
                     "text": lan.buttonText.main[0],
                     web_app: {
-                            url: 'https://bridge.tonspay.top/'
+                            url: 'https://wallet.tonspay.top/gift/ton'
                     }
                 }],
                 [{
